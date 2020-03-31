@@ -20521,6 +20521,11 @@
   "RootNamespace": "MarThirty",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\MarThirty\\Views\\Camper\\Create.cshtml",
+      "TargetPath": "Views\\Camper\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\MarThirty\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -20553,6 +20558,26 @@
     {
       "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\MarThirty\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\MarThirty\\Views\\Camper\\Edit.cshtml",
+      "TargetPath": "Views\\Camper\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\MarThirty\\Views\\Camper\\Delete.cshtml",
+      "TargetPath": "Views\\Camper\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\MarThirty\\Views\\Camper\\Index.cshtml",
+      "TargetPath": "Views\\Camper\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\MarThirty\\Views\\Camper\\Details.cshtml",
+      "TargetPath": "Views\\Camper\\Details.cshtml",
       "FileKind": "mvc"
     }
   ],
